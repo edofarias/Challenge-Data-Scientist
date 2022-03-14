@@ -2,7 +2,7 @@ Challenge-Data-Scientist
 Resumen ejecutivo
     En el siguiente trabajo, aborda un problema de aprendizaje supervisado, donde se requiere predecir cuándo un avión puede retrasarse dependiendo de determinadas variables dadas. Se prueban 2 modelos de clasificación de algoritmos "decision tree" y "Knn", obteniendo accuracy de sobre el 80%, pero recall de sólo sobre el 60%. Se recomienda incorporar variables tales como clima, experiencia del piloto y características mecánicas del avión que podrían mejorar el recall del modelo.
     
-    Problema El problema consiste en predecir la probabilidad de atraso de los vuelos que aterrizan o despegan del aeropuerto de Santiago de Chile (SCL). Para eso les entregamos un dataset usando datos públicos y reales donde cada fila corresponde a un vuelo que aterrizó o despegó de SCL. Para cada vuelo se cuenta con la siguiente información: Fecha-I : Fecha y hora programada del vuelo.
+El problema consiste en predecir la probabilidad de atraso de los vuelos que aterrizan o despegan del aeropuerto de Santiago de Chile (SCL). Para eso les entregamos un dataset usando datos públicos y reales donde cada fila corresponde a un vuelo que aterrizó o despegó de SCL. Para cada vuelo se cuenta con la siguiente información: Fecha-I : Fecha y hora programada del vuelo.
 
 Vlo-I : Número de vuelo programado.
 
